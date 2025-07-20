@@ -1,0 +1,19 @@
+{
+    "version": "0.1.4",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/cedws/umbra-launcher/releases/download/v0.1.4/umbra-launcher_0.1.4_windows_amd64.tar.gz",
+            "bin": [
+                "umbra-launcher.exe"
+            ],
+            "hash": "4a28a8689bda0202265389b2f7ab2ac14d626ebe7ff7c6806ec20ad90de17545"
+        },
+        "arm64": {
+            "url": "https://github.com/cedws/umbra-launcher/releases/download/v0.1.4/umbra-launcher_0.1.4_windows_arm64.tar.gz",
+            "bin": [
+                "umbra-launcher.exe"
+            ],
+            "hash": "2021457534f96a169cddc473ef3ab6b24c1825f4e573a7543ca81b455aa8619c"
+        }
+    }
+}
