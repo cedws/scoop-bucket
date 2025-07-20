@@ -1,0 +1,19 @@
+{
+    "version": "0.1.10",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/cedws/iapc/releases/download/v0.1.10/iapc_0.1.10_windows_amd64.tar.gz",
+            "bin": [
+                "iapc.exe"
+            ],
+            "hash": "fd687460b3096962db4635e378359102a7c809982017fbd8d3b2ac1e4b89cb3e"
+        },
+        "arm64": {
+            "url": "https://github.com/cedws/iapc/releases/download/v0.1.10/iapc_0.1.10_windows_arm64.tar.gz",
+            "bin": [
+                "iapc.exe"
+            ],
+            "hash": "38593bd9634dcab3f28777e190871366d8718296cd1704489790a36dfaebd968"
+        }
+    }
+}
