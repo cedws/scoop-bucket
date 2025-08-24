@@ -1,0 +1,19 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/cedws/sshgate/releases/download/v0.1.0/sshgate_0.1.0_windows_amd64.tar.gz",
+            "bin": [
+                "sshgate.exe"
+            ],
+            "hash": "f7370774de9a52d49ba2f6e3ed02242d93ddad88e6ab9b7b5a2c77df827db20c"
+        },
+        "arm64": {
+            "url": "https://github.com/cedws/sshgate/releases/download/v0.1.0/sshgate_0.1.0_windows_arm64.tar.gz",
+            "bin": [
+                "sshgate.exe"
+            ],
+            "hash": "f3b9d33381e80c1dfff30d199dafdf1ad97c47ab8caadf7f725da9cb963432a5"
+        }
+    }
+}
