@@ -1,0 +1,21 @@
+{
+    "version": "0.39.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/cedws/crush/releases/download/v0.39.0/crush_0.39.0_Windows_x86_64.zip",
+            "bin": [
+                "crush_0.39.0_Windows_x86_64/crush.exe"
+            ],
+            "hash": "da1f3e1c0269c0d2aa1d198fa5fa999890fb5be9dcce545cf01e34e049c02703"
+        },
+        "arm64": {
+            "url": "https://github.com/cedws/crush/releases/download/v0.39.0/crush_0.39.0_Windows_arm64.zip",
+            "bin": [
+                "crush_0.39.0_Windows_arm64/crush.exe"
+            ],
+            "hash": "02c991711170bbb35967a38666ed61945d702ced11b2c1664713c653550162b0"
+        }
+    },
+    "homepage": "https://github.com/cedws/crush",
+    "description": "Unofficial fork of Crush — a powerful terminal-based AI assistant for developers."
+}
