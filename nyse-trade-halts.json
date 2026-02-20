@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cedws/nyse-trade-halts/releases/download/v0.1.0/nyse-trade-halts_0.1.0_windows_amd64.tar.gz",
+            "url": "https://github.com/cedws/nyse-trade-halts/releases/download/v0.1.1/nyse-trade-halts_0.1.1_windows_amd64.tar.gz",
             "bin": [
                 "nyse-trade-halts.exe"
             ],
-            "hash": "7dc1aa6af161c30c98f3736f34260254db5050a2ef22b91c8d082f68463ed45c"
+            "hash": "218da62a343b9f2db4da69525c51c4448dd70449ccd1cbd6ef926589b82ba3f7"
         },
         "arm64": {
-            "url": "https://github.com/cedws/nyse-trade-halts/releases/download/v0.1.0/nyse-trade-halts_0.1.0_windows_arm64.tar.gz",
+            "url": "https://github.com/cedws/nyse-trade-halts/releases/download/v0.1.1/nyse-trade-halts_0.1.1_windows_arm64.tar.gz",
             "bin": [
                 "nyse-trade-halts.exe"
             ],
-            "hash": "79a5a25e5474d71761369cef65b3830b06a868bc098eb3b0fa3ee08cd1870c23"
+            "hash": "1b04f7f873e1b2fe98ddc58c779e6a5efd9aabd1031c4ff41d3d6924efafb2e0"
         }
     }
 }
