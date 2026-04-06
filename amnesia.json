@@ -1,19 +1,19 @@
 {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cedws/amnesia/releases/download/v0.2.0/amnesia_0.2.0_windows_amd64.tar.gz",
+            "url": "https://github.com/cedws/amnesia/releases/download/v0.2.1/amnesia_0.2.1_windows_amd64.tar.gz",
             "bin": [
                 "amnesia.exe"
             ],
-            "hash": "3c116c5bed82a4287d24c299af6bc3dd41146cb2e77ff2df238c10025873e7df"
+            "hash": "d2b497fd7c235828aa9af5b9b30247da45d13f29295b6f841b9e2dac5fe2d1ac"
         },
         "arm64": {
-            "url": "https://github.com/cedws/amnesia/releases/download/v0.2.0/amnesia_0.2.0_windows_arm64.tar.gz",
+            "url": "https://github.com/cedws/amnesia/releases/download/v0.2.1/amnesia_0.2.1_windows_arm64.tar.gz",
             "bin": [
                 "amnesia.exe"
             ],
-            "hash": "e5f531b5c92a3699f8d17cddecbcf457450ac6c2b9f6a6858f0bd0edb1bc0945"
+            "hash": "baea8671339bb9198ec0fa5c998c9b9fdc7c7b3de39ec1c76e84b3652ffe9e9f"
         }
     }
 }
