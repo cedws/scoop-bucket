@@ -1,0 +1,26 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/cedws/proxmox-service-discovery/releases/download/v0.1.0/proxmox-service-discovery_0.1.0_windows_386.tar.gz",
+            "bin": [
+                "proxmox-service-discovery.exe"
+            ],
+            "hash": "aed5435c5fa3d363df5f3b843f9cc5bb5d01eb6bcc4a6b31bac714c62d3248bf"
+        },
+        "64bit": {
+            "url": "https://github.com/cedws/proxmox-service-discovery/releases/download/v0.1.0/proxmox-service-discovery_0.1.0_windows_amd64.tar.gz",
+            "bin": [
+                "proxmox-service-discovery.exe"
+            ],
+            "hash": "46e50fdc60dc720bcd51a270d9205ba00e7ca80dd0317b011791baac3d54da77"
+        },
+        "arm64": {
+            "url": "https://github.com/cedws/proxmox-service-discovery/releases/download/v0.1.0/proxmox-service-discovery_0.1.0_windows_arm64.tar.gz",
+            "bin": [
+                "proxmox-service-discovery.exe"
+            ],
+            "hash": "3eb0e3901261befee549c09c5583c5601675a168d63575f60722f8092eaebeaf"
+        }
+    }
+}
