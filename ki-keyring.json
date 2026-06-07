@@ -1,0 +1,26 @@
+{
+    "version": "0.2.4",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/cedws/ki-keyring/releases/download/v0.2.4/ki-keyring_0.2.4_windows_386.tar.gz",
+            "bin": [
+                "ki-keyring.exe"
+            ],
+            "hash": "1b6c4a107e693c4dc036c69b79fa1a8f3c002a599ee242f2bf76badd9a3a5e72"
+        },
+        "64bit": {
+            "url": "https://github.com/cedws/ki-keyring/releases/download/v0.2.4/ki-keyring_0.2.4_windows_amd64.tar.gz",
+            "bin": [
+                "ki-keyring.exe"
+            ],
+            "hash": "37025de22ebaa3b864d8be7f0de3b17dfa65132743b8d4c82133f4465593af7c"
+        },
+        "arm64": {
+            "url": "https://github.com/cedws/ki-keyring/releases/download/v0.2.4/ki-keyring_0.2.4_windows_arm64.tar.gz",
+            "bin": [
+                "ki-keyring.exe"
+            ],
+            "hash": "63f7806c43624d909ca57dfc491946fa197def1bc28ab02666b2986eb0d0ea9e"
+        }
+    }
+}
