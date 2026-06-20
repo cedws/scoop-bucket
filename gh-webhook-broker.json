@@ -1,0 +1,19 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/cedws/gh-webhook-broker/releases/download/v0.1.0/gh-webhook-broker_0.1.0_windows_amd64.tar.gz",
+            "bin": [
+                "gh-webhook-broker.exe"
+            ],
+            "hash": "6bdefc49de00b75c17cdb2ade91c447362038846c27e25fb663153379bda98b8"
+        },
+        "arm64": {
+            "url": "https://github.com/cedws/gh-webhook-broker/releases/download/v0.1.0/gh-webhook-broker_0.1.0_windows_arm64.tar.gz",
+            "bin": [
+                "gh-webhook-broker.exe"
+            ],
+            "hash": "6183f01b5162c7966f531db6f80573f39d7a1028e9d42762bfc9f0d53a9ad68e"
+        }
+    }
+}
